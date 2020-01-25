@@ -6,3 +6,4 @@ int main(){
     cout << "github remote activate"<<endl;
     return 0;
 }
+//ignore input of password
